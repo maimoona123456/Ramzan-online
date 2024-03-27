@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "ramzan-online2": "^2.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
